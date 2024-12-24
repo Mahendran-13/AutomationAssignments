@@ -21,6 +21,7 @@ public class Assesment3EmpGroup {
 		System.out.println("Employee name :"+ename[1]+" Employee id :"+eid[1]);	
 		System.out.println("Employee name :"+ename[2]+" Employee id :"+eid[2]);
 		
+		
 	}
 
 
