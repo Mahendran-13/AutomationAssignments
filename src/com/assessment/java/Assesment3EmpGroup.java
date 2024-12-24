@@ -17,11 +17,9 @@ public class Assesment3EmpGroup {
 		eid[0]= obj.empid[0];
 		eid[1]= obj.empid[1];
 		eid[2]= obj.empid[2];
-		System.out.println("Employee name :"+ename[0]+" Employee id :"+eid[0]);
-		System.out.println("Employee name :"+ename[1]+" Employee id :"+eid[1]);	
-		System.out.println("Employee name :"+ename[2]+" Employee id :"+eid[2]);
-		
-		
+		System.out.println("Employee name :"+ename[0]+", Employee id :"+eid[0]);
+		System.out.println("Employee name :"+ename[1]+", Employee id :"+eid[1]);	
+		System.out.println("Employee name :"+ename[2]+", Employee id :"+eid[2]);	
 	}
 
 
